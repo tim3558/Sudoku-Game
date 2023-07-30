@@ -16,7 +16,7 @@ The game starts with some cells pre-filled, and the player's task is to solve th
 • Timer to track solving time. <br>
 
 <h4>How to Play:</h4>
-Download the Java Sudoku Game from the https://github.com/tim3558/Sudoku-Game/blob/main/SudokuV2/out/artifacts/SudokuV2_jar/SudokuV2.jar <br>
+Download the Java Sudoku Game from the https://github.com/tim3558/Sudoku-Game/tree/main <br>
 Make sure you have Java installed on your system. <br>
 Double-click on the SudokuGame.jar file to launch the game. <br>
 
