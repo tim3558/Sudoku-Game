@@ -16,7 +16,7 @@ The game starts with some cells pre-filled, and the player's task is to solve th
 • Timer to track solving time. <br>
 
 <h4>How to Play:</h4>
-Download the Java Sudoku Game from the https://github.com/tim3558/Sudoku-Game/tree/main <br>
+Download the Java Sudoku Game from the https://github.com/tim3558/Sudoku-Game/tree/main  <br>
 Make sure you have Java installed on your system. <br>
 Double-click on the SudokuGame.jar file to launch the game. <br>
 
@@ -25,8 +25,8 @@ Click on an empty cell to select it. <br>
 Use the number keys (1 to 9) to input a value into the selected cell. <br> 
 
 <h4>Installation:</h4>
-If you want to build the game from source, follow these steps: <br><
-1. Clone the repository: git clone https://github.com/tim3558/Sudoku-Game/tree/main <br>
+If you want to build the game from source, follow these steps: <br>
+1. Clone the repository: git clone https://github.com/tim3558/Sudoku-Game/tree/main  <br>
 2. Open the project in your favorite Java IDE (Eclipse, IntelliJ, etc.). <br>
 3. Build the project to generate the executable JAR file. <br>
 
